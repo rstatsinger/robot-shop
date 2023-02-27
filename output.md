@@ -24,3 +24,5 @@ New homepage:
 
 
 I added SixFingers.png to the repo, also added a sig.png to the media directory and added a footer to the splash.html to use it, edited and rebuilt the images using docker-compose build
+
+You should be able to just clone this repo and run  % docker-compose up
