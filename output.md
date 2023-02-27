@@ -13,3 +13,7 @@ Homepage screencap:
 
 Note that I have required approvals for pull requests against my forked repo:
 
+<img width="1130" alt="image" src="https://user-images.githubusercontent.com/29604888/221663485-057ac677-3c3f-4fff-ba8e-2a7e72436404.png">
+
+Commits directly against masters are not good practice - that is why we have pull requests, so that repo owners can have propsed new code tested and approved prior to merge. For the output.md file, since I am the repo owner, and since it does not add executable code, I directly merged into master :)
+
