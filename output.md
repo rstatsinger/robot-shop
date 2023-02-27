@@ -17,3 +17,10 @@ Note that I have required approvals for pull requests against my forked repo:
 
 Commits directly against masters are not good practice - that is why we have pull requests, so that repo owners can have propsed new code tested and approved prior to merge. For the output.md file, since I am the repo owner, and since it does not add executable code, I directly merged into master :)
 
+New homepage:  
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/29604888/221671556-da37a8b1-9dc4-4c73-afe5-d9251289f418.png">
+
+
+
+I added SixFingers.png to the repo, edited index.html to use it, and rebuilt the images using docker-compose build
